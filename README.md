@@ -1,4 +1,4 @@
-# Source-Reserved-Slots
+# Source-Reserved-Slots (v1.0.4)
 
 This plugin allows for the last X slots to be reserved for anyone with the 'reserved access slot' flag. Built for [SourceMod](https://www.sourcemod.net/). Should work with CS:S, CS:GO, and all other servers that run SourceMod. If it doesn't work, please open up an [issue](https://github.com/ashort96/Source-Reserved-Slots/issues) and I will attempt to fix it.
 
@@ -8,6 +8,7 @@ This plugin was built for a server that did not want to use the built-in reserve
 
 ## Variables
 
+These are the variables that this plugin uses. If you do not know how to use these, just add them to your server.cfg (or any similar file you may use for your server, such as autoexec.cfg), and it will update the variables for your server.
 
 `sm_reservedslots` - Number of slots reserved, takes a string
 

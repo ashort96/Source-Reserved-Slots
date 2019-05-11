@@ -1,7 +1,6 @@
 #pragma semicolon 1
 #include <sourcemod>
-#define PLUGIN_VERSION "1.0.3"
-#define DEBUG true
+#define PLUGIN_VERSION "1.0.4"
 
 #define SLOTS 0
 #define URL 1
